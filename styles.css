@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
 .cell {
     width: 75px;
     height: 75px;
@@ -9,7 +11,7 @@
 }
 
 #gameContainer {
-    font-family: permanent marker, cursive;
+    font-family: 'permanent marker', 'Times New Roman', Times, serif, Arial, Helvetica, sans-serif; 
     text-align: center;
 
 
@@ -20,4 +22,8 @@
     width: 225px;
     margin: auto;
 
+}
+
+#restartBtn {
+    font-family: 'permanent marker', 'Times New Roman', Times, serif, Arial, Helvetica, sans-serif;
 }
